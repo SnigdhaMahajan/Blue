@@ -2,8 +2,8 @@ import psycopg2
 
 # Set up the connection parameters
 dbname = 'airtel'
-user = 'snigdhamahajan'
-password = 'new_password'
+user = 'usr_name'
+password = 'Password'
 host = 'localhost'  # or your host IP address
 port = '5432'  # default PostgreSQL port
 
